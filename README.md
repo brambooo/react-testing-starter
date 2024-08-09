@@ -1,9 +1,6 @@
-# Testing React Apps
-
-This is the starter project for my Reacting testing course where you'll learn everything you need to know to effectively test React apps. You can find the full course at: 
-
-https://codewithmosh.com 
-
+# Shortcuts
+itr = test import
+<!-- 
 ## About this Project 
 
 This is a React app built with the following technologies and libraries: 
@@ -66,4 +63,4 @@ npm start
 This will start the back-end process at `http://localhost:3000`. If port 3000 is in use on your machine, update the port number in the following files and run `npm start` again: 
 
 - json-server.json
-- src/main.tsx
+- src/main.tsx -->
